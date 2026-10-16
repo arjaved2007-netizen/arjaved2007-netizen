@@ -54,6 +54,18 @@ Building practical software, AI systems, automation workflows, and cybersecurity
 
 ## Featured Projects
 
+### 🌡️ Mercury
+
+A worksite heat-monitoring platform connecting environmental conditions to rule-based safety actions and timestamped records.
+
+Co-developed the application and resolved a major FortyGuard API integration issue involving empty geographic queries and undocumented response-schema differences.
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Mapbox · FortyGuard · Gemini
+
+[View Live App →](https://osha-compliance-app.vercel.app/)
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -64,10 +76,9 @@ Operational invoice ledger for small businesses, designed to simplify invoice tr
 
 **Tech:** React · Vite · Supabase · TypeScript
 
-[View Repository →](https://github.com/arjaved2007-netizen/OpsLedger)
+*Source code currently private.*
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ♻️ ReCircle
@@ -78,7 +89,6 @@ AI-assisted marketplace for redistributing leftover construction materials inste
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -89,7 +99,6 @@ Interactive learning platform built around creating and managing quizzes through
 **Tech:** React · Supabase · TypeScript
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚡ AI Lead Automation
@@ -103,6 +112,8 @@ Automated lead workflow that collects prospect data, generates personalized AI o
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
